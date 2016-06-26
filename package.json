@@ -1,0 +1,26 @@
+{
+  "name": "test-gutter-rspec",
+  "main": "./lib/index",
+  "version": "0.0.0",
+  "description": "Test Gutter plugin for RSpec",
+  "keywords": [
+  ],
+  "repository": "https://github.com/atom/test-gutter-rspec",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "concat-stream": "^1.5.1"
+  },
+  "providedServices": {
+    "test-gutter": {
+      "versions": {
+        "0.1.1": "provideTestRunner"
+      }
+    }
+  },
+  "standard": {
+    "globals": [ "atom" ]
+  }
+}
