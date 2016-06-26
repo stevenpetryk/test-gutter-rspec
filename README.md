@@ -1,5 +1,11 @@
-# test-gutter-rspec package
+# TestGutter RSpec
 
-A short description of your package.
+An RSpec runner for [TestGutter](https://github.com/stevenpetryk/test-gutter).
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+## Installation
+
+```
+apm install test-gutter test-gutter-rspec
+```
+
+This package is dependent on `test-gutter`.

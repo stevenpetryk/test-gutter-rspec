@@ -5,7 +5,7 @@
   "description": "Test Gutter plugin for RSpec",
   "keywords": [
   ],
-  "repository": "https://github.com/atom/test-gutter-rspec",
+  "repository": "https://github.com/stevenpetryk/test-gutter-rspec",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
